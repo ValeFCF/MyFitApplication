@@ -7,8 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52417a1f-03b9-49da-aa41-ef2b71caa716" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_21_0_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_21_0_3.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MyFitApplication.iws" />
@@ -874,7 +872,11 @@
       <created>1420930384281</created>
       <updated>1420930384281</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="sdk Min">
+      <created>1420931028251</created>
+      <updated>1420931028251</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -928,7 +930,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="first commit from AndroidStudio" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit from AndroidStudio" />
+    <MESSAGE value="sdk Min" />
+    <option name="LAST_COMMIT_MESSAGE" value="sdk Min" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
