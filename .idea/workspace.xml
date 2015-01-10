@@ -7,10 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52417a1f-03b9-49da-aa41-ef2b71caa716" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/vale/myfitapplication/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/vale/myfitapplication/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MyFitApplication.iws" />
@@ -77,8 +73,8 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/vale/myfitapplication/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4745167" vertical-offset="0" max-vertical-offset="615">
-              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.73813707" vertical-offset="0" max-vertical-offset="615">
+              <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -931,6 +927,11 @@
       <created>1420928947554</created>
       <updated>1420928947554</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit from AndroidStudio">
+      <created>1420930384281</created>
+      <updated>1420930384281</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -983,6 +984,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="first commit from AndroidStudio" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit from AndroidStudio" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1001,8 +1004,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/vale/myfitapplication/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4745167" vertical-offset="0" max-vertical-offset="615">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.73813707" vertical-offset="0" max-vertical-offset="615">
+          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
           <folding />
         </state>
       </provider>
